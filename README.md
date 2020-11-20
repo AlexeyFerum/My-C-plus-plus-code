@@ -1,1 +1,1 @@
-# My-C-plus-plus-code
+# My C++ code
